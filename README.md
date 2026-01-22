@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9494,100:19b3f5&height=180&text=Seungjin%20Park's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Python & Spring 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> Python AI Service Backend Engineer </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Python AI Service Backend Engineer </h2>  
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
