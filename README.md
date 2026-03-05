@@ -1,3 +1,8 @@
+
+
+<hr>
+
+# Tech Stack
 #### Backend
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 #### Frontend
@@ -19,7 +24,15 @@
 #### Favorite Burger
 <img src="https://img.shields.io/badge/mcdonalds-FBC817?style=for-the-badge&logo=mcdonalds&logoColor=white">
 
+<hr>
+
+# Stat
+
   ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<hr>
+
+# Animal Farm
 
 <div align="center">
   <img
